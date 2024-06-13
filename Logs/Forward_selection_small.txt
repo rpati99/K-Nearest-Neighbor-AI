@@ -1,0 +1,37 @@
+This dataset has 12 features (not including the class attribute), with 500 instances.
+Using feature(s) [0] accuracy is 82.8%
+Using feature(s) [1] accuracy is 74.0%
+Using feature(s) [2] accuracy is 73.2%
+Using feature(s) [3] accuracy is 76.4%
+Using feature(s) [4] accuracy is 72.8%
+Using feature(s) [5] accuracy is 76.0%
+Using feature(s) [6] accuracy is 75.2%
+Using feature(s) [7] accuracy is 75.6%
+Using feature(s) [8] accuracy is 73.8%
+Using feature(s) [9] accuracy is 77.0%
+Using feature(s) [10] accuracy is 75.8%
+Using feature(s) [11] accuracy is 73.6%
+Feature set [0] was best, accuracy is 82.8%
+Using feature(s) [0, 1] accuracy is 82.0%
+Using feature(s) [0, 2] accuracy is 82.0%
+Using feature(s) [0, 3] accuracy is 82.8%
+Using feature(s) [0, 4] accuracy is 83.0%
+Using feature(s) [0, 5] accuracy is 83.8%
+Using feature(s) [0, 6] accuracy is 96.6%
+Using feature(s) [0, 7] accuracy is 82.4%
+Using feature(s) [0, 8] accuracy is 84.4%
+Using feature(s) [0, 9] accuracy is 84.2%
+Using feature(s) [0, 10] accuracy is 84.2%
+Using feature(s) [0, 11] accuracy is 83.0%
+Feature set [0, 6] was best, accuracy is 96.6%
+Using feature(s) [0, 6, 1] accuracy is 94.0%
+Using feature(s) [0, 6, 2] accuracy is 92.0%
+Using feature(s) [0, 6, 3] accuracy is 92.8%
+Using feature(s) [0, 6, 4] accuracy is 92.4%
+Using feature(s) [0, 6, 5] accuracy is 91.0%
+Using feature(s) [0, 6, 7] accuracy is 92.0%
+Using feature(s) [0, 6, 8] accuracy is 94.0%
+Using feature(s) [0, 6, 9] accuracy is 92.2%
+Using feature(s) [0, 6, 10] accuracy is 94.6%
+Using feature(s) [0, 6, 11] accuracy is 93.0%
+Finished search!! The best feature subset is [0, 6], which has an accuracy of 96.6%
