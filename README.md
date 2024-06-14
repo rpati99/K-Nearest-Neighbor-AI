@@ -1,6 +1,4 @@
-# K-Nearest-Neighbor-AI
-
-I have added the logic in code.ipynb file. 
+# K-Nearest-Neighbor-AI 
 
 This project aims to implement the K-nearest neighbor algorithm taught by Dr. Eamonn Keogh. 
 It uses search algorithm wrappers namely. 
@@ -10,7 +8,10 @@ It uses search algorithm wrappers namely.
 To provide an overview of performance of K-NN with respective dataset namely:- 
 1. Small with 12 features and 500 instances.
 2. Large with 50 features and 5000 instances.
-I measured them and can be visualized with plotting graphs (scatter plot and bar graph) outlining accuracy vs features.
 
+Visualization of the performance of the codee done by plotting graphs (scatter plot, bar graph) outlining accuracy of respective features.
+• Scatter plot shows accuracy for all feature sets. 
+• Bar chart shows accuracy of best feature sets. 
 
-Output of results I ran from respective datasets can be found in "Logs" folder.
+Under "Logs" folder, output of program is available.
+Under "code.ipynb" notebook code logic is present. 
